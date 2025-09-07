@@ -25,7 +25,7 @@ I combine **design, code, and strategy** to deliver websites and web application
 - **Scalable & Maintainable** — modern architectures built for growth  
 - **Conversion-Focused** — UX and features designed to boost retention & engagement  
 
-I leverage **React, TypeScript, Node.js, Tailwind, and Framer Motion** to craft experiences that aren’t just functional — they **move users, drive results, and tell a story**.
+I leverage **React, TypeScript, Node.js, and Tailwind, to craft experiences that aren’t just functional, they **move users, drive results, and tell a story**.
 
 ---
 
