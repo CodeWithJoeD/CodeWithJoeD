@@ -17,15 +17,27 @@
 
 ---
 
-## About Me
+# About Me
 
-I combine **design, code, and strategy** to deliver websites and web applications that are:
+## Who I Am
 
-- **Fast & Responsive** — pixel-perfect UIs optimized for sub-second performance  
-- **Scalable & Maintainable** — modern architectures built for growth  
-- **Conversion-Focused** — UX and features designed to boost retention & engagement  
+My coding journey started with building high-converting Shopify stores. I was eager to stand out, so I began customizing sections using HTML and CSS. Over the course of six months, I self taught myself web design, experimenting with complex layouts, animations, and unique designs. This hands on approach sparked a passion for creating intuitive, user friendly interfaces that solve real world problems.
 
-I leverage **React, TypeScript, Node.js, and Tailwind, to craft experiences that aren’t just functional, they **move users, drive results, and tell a story**.
+In January 2024, I took a leap and joined CareerFoundry's Full Stack Bootcamp to formalize my skills. I completed the full-stack portion by November 2024 and specialized in Python by January 2025. Since then, I’ve been building personal projects, freelancing, and focusing on creating fast, responsive websites that deliver real business value.
+
+## My Journey
+
+I had the opportunity to contribute as a part time developer to a startup, where I led the developement of a CFO Agenda tool that streamlined financial processes. This experience taught me the importance of collaboration, iterative design, and how impactful software can be when it’s built with users’ needs at its core. 
+
+I’m not just passionate about coding; I’m dedicated to creating products that seamlessly blend functionality, aesthetics, and efficiency, always keeping the end user in mind.
+
+## What I’m Looking For
+
+I’m eager to join a team where I can continue learning, grow as a developer, and contribute to projects that truly make a difference. I love a good challenge, and I’m excited about opportunities to innovate, create clean, scalable code, and deliver results that matter. Above all, I want to work on projects that delight users and have a tangible impact.
+
+---
+
+Feel free to reach out if you think my skills and passion could bring value to your team. Let’s build something amazing together!
 
 ---
 
