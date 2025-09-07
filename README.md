@@ -1,118 +1,91 @@
-<div align="center">
+# Hi, I'm Joe Destefano!
 
-# Joe Destefano
-
-`React` • `Node.js` • `TypeScript` • **Full Stack Developer**
-
-<i>I don’t just write code — I craft experiences that convert, scale, and delight users.</i>
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://destefanojoewebdev.com)
-[![Email](https://img.shields.io/badge/Email-1a73e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destefanojoewebdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeadestefano)
-[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-25D366?style=for-the-badge&logo=Handshake&logoColor=white)](#lets-connect)
-
-</div>
+**Full Stack Developer | React | Node.js | Python | TypeScript**  
+[Portfolio](https://destefanojoewebdev.com) | [Email](mailto:destefanojoewebdev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joeadestefano)
 
 ---
 
-# About Me
+## What I Do
 
-## Who I Am
+I'm a full-stack developer passionate about crafting seamless, user-centric digital experiences. Whether it's building high-performance web applications or creating smooth, engaging interfaces, my goal is always to deliver code that’s clean, scalable, and **user-focused**.
 
-My coding journey started with building high-converting Shopify stores. I was eager to stand out, so I began customizing sections using HTML and CSS. Over the course of six months, I self taught myself web design, experimenting with complex layouts, animations, and unique designs. This hands on approach sparked a passion for creating intuitive, user friendly interfaces that solve real world problems.
-
-In January 2024, I took a leap and joined CareerFoundry's Full Stack Bootcamp to formalize my skills. I completed the full-stack portion by November 2024 and specialized in Python by January 2025. Since then, I’ve been building personal projects, freelancing, and focusing on creating fast, responsive websites that deliver real business value.
-
-## My Journey
-
-I had the opportunity to contribute as a part time developer to a startup, where I led the developement of a CFO Agenda tool that streamlined financial processes. This experience taught me the importance of collaboration, iterative design, and how impactful software can be when it’s built with users’ needs at its core. 
-
-I’m not just passionate about coding; I’m dedicated to creating products that seamlessly blend functionality, aesthetics, and efficiency, always keeping the end user in mind.
-
-## What I’m Looking For
-
-I’m eager to join a team where I can continue learning, grow as a developer, and contribute to projects that truly make a difference. I love a good challenge, and I’m excited about opportunities to innovate, create clean, scalable code, and deliver results that matter. Above all, I want to work on projects that delight users and have a tangible impact.
+My journey began with creating high-converting Shopify stores, and now I’m diving deep into React, Node.js, TypeScript, and Python to build scalable, efficient web apps. I specialize in solving complex problems with elegant, robust solutions.
 
 ---
 
-Feel free to reach out if you think my skills and passion could bring value to your team. Let’s build something amazing together!
+## My Tech Stack
+
+### Frontend
+- React, TypeScript, Tailwind CSS, HTML5, CSS3, Framer Motion, PWA, Responsive Design, Accessibility Best Practices
+
+### Backend
+- Node.js, Express, Python, MongoDB, Firebase, PostgreSQL, REST APIs, JWT, OAuth
+
+### Tools & Workflows
+- Git, GitHub, AWS, Heroku, Netlify, CI/CD, Jest, Postman, Figma, Agile
+
+---
+
+## Notable Projects
+
+### AI-powered CFO Agenda Creator
+- **Tech**: React, Tailwind CSS, OpenAI  
+- **Impact**: Halved executive prep time by automating the generation of CFO meeting agendas and reports. [**Demo**](https://offical-cfo-t0uz.onrender.com)  
+- Created to simplify and speed up financial workflows for companies, saving up to 50% of preparation time.
+
+### Meet App
+- **Tech**: React PWA, MongoDB, Node.js  
+- **Impact**: An event discovery app that allows users to schedule, manage, and discover tech events by city, with offline support. [**Demo**](https://jdestefano11.github.io/meet-app/)  
+- Dynamic filtering and interactive visualizations help users discover relevant events quickly.
+
+### Meal Mind (Client Project)
+- **Tech**: React, TypeScript, State Management  
+- **Impact**: Personalized nutrition tool that builds custom meal plans and grocery lists based on dietary preferences.  
+- **Confidential client project** — live demo available upon request.
+
+---
+
+## What I'm Excited About
+
+- Building web apps that **delight users** and **solve real-world problems**  
+- Creating highly **scalable, maintainable code** that can evolve with the needs of the business  
+- Focusing on **performance optimization**, **accessibility**, and **user-centered design**  
 
 ---
 
 ## Key Achievements
 
-<div align="center">
-
-| Achievement | Impact |
-|------------|-------|
-| AI-driven CFO Agenda Tool | 50% faster executive prep |
-| Advanced Frontend Optimization | 30% performance boost |
-| Motion-driven UX | 40% higher engagement |
-| Accessibility + Smooth Animations | Zero-compromise UX |
-
-</div>
+| Achievement                       | Impact                                  |
+|------------------------------------|-----------------------------------------|
+| AI-driven CFO Agenda Tool          | 50% faster executive prep              |
+| Advanced Frontend Optimization     | 30% performance boost                  |
+| Motion-driven UX                   | 40% higher user engagement            |
+| Accessibility & Smooth Animations  | Zero-compromise user experience        |
 
 ---
 
-## Core Expertise
+## Why Work With Me?
 
-<div align="center">
+I’m not just about writing code — I build **experiences**. Whether it’s enhancing user engagement, increasing performance, or creating accessible designs, I always focus on delivering value and impact. 
 
-| Frontend Craft | Backend Power | Business Impact |
-|----------------|---------------|----------------|
-| React • TypeScript • Tailwind CSS • Framer Motion | Node.js • Express • Python • MongoDB • Firebase | Conversion Focus • Analytics-Driven • Performance Optimization |
-| Pixel-perfect UI | Scalable APIs | ROI-focused development |
-| Motion & Interactive UX | RESTful Integrations | Strategic problem-solving |
-
-</div>
+I believe in **collaboration** and **innovation** and am eager to continue learning while contributing to projects that truly make a difference.
 
 ---
 
-## Signature Projects
+## Let’s Connect!
 
-<div align="center">
-
-### **CFO Agenda Tool**  
-**Tech:** React, Tailwind CSS, AI Integration  
-**Impact:** Halved executive prep time by automating agenda generation  
-[→ Live Demo](https://offical-cfo-t0uz.onrender.com)  
-
-### **Meet App**  
-**Tech:** React PWA, Offline Support  
-**Impact:** Event discovery app with interactive visualizations, works offline  
-[→ Live Demo](https://jdestefano11.github.io/meet-app/)  
-
-### **Meal Mind (Client Project)**  
-**Tech:** React, TypeScript, State Management  
-**Impact:** Modern nutrition app with clean UX & scalable architecture  
-*Live demo available on request*  
-
-</div>
+If you’re looking for a developer who’s as passionate about clean, scalable code as they are about creating awesome user experiences, I’d love to chat! Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.com/in/joeadestefano). Let’s build something amazing together!
 
 ---
 
-## Story-Driven Branding
-
-<div align="center">
-
-- Personal branding through **narrative**, not just tech stacks  
-- Demonstrate **problem-solving with React, Node, TypeScript**, instead of raw lists  
-- Example: “Built a chat app that works offline with multimedia — showcasing React, Firebase, and TypeScript expertise”  
-- Recruiters remember **stories & impact metrics** more than bullet points  
-
-</div>
+### Find Me On
+- [LinkedIn](https://www.linkedin.com/in/joeadestefano)  
+- [Portfolio](https://destefanojoewebdev.com)  
+- [Email](mailto:destefanojoewebdev@gmail.com)  
+- [GitHub](https://github.com/jdestefano11)
 
 ---
 
-## Tech Arsenal
+### Fun Fact
 
-```js
-const skills = {
-  frontend: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'HTML5/CSS3'],
-  backend: ['Node.js', 'Express', 'Python', 'RESTful APIs'],
-  data: ['Firebase', 'MongoDB', 'State Management'],
-  tools: ['Git', 'GitHub', 'Figma', 'VS Code'],
-  specialties: ['Performance Optimization', 'Shopify Development', 'Accessible UX', 'Motion UX', 'SEO Optimization']
-};
+When I’m not coding, I’m probably tinkering with my latest personal project or experimenting with new technologies! Let’s connect and geek out about the future of tech.
