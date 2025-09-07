@@ -65,10 +65,9 @@ My journey began with creating high-converting Shopify stores, and now I’m div
 ---
 
 ## Why Work With Me?
+I’m not just about writing code; I focus on building experiences. Whether it’s improving user engagement, boosting performance, or creating accessible designs, my priority is always to deliver value and make an impact.
 
-I’m not just about writing code — I build **experiences**. Whether it’s enhancing user engagement, increasing performance, or creating accessible designs, I always focus on delivering value and impact. 
-
-I believe in **collaboration** and **innovation** and am eager to continue learning while contributing to projects that truly make a difference.
+I believe in collaboration and innovation, and I’m excited to keep learning while contributing to projects that genuinely make a difference.
 
 ---
 
